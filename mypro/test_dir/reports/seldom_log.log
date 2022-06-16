@@ -1,0 +1,32 @@
+ 2022-06-14 15:50:14 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 15:51:44 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 15:52:44 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 15:53:45 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 15:54:45 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-14 16:13:56 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:13:58 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:13:59 webdriver.py | INFO | ✅ Find 1 element: id=sb_form_q  -> input 'poium'.
+ 2022-06-14 16:14:00 case.py | INFO | 👀 assertIn title: poium - 搜索.
+ 2022-06-14 16:14:00 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:14:01 webdriver.py | INFO | ✅ Find 1 element: id=sb_form_q  -> input 'XTestRunner'.
+ 2022-06-14 16:14:02 case.py | INFO | 👀 assertIn title: XTestRunner - 搜索.
+ 2022-06-14 16:14:02 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-14 16:14:09 case.py | INFO | 👀 assertIn url: http://www.itest.info/.
+ 2022-06-14 16:14:09 runner.py | SUCCESS | A run the test in debug mode without generating HTML report!
+ 2022-06-15 15:15:52 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-15 15:16:03 case.py | INFO | 👀 assertIn url: http://www.itest.info/.
+ 2022-06-15 15:17:07 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-15 15:17:14 case.py | INFO | 👀 assertIn url: http://www.itest.info/.
+ 2022-06-15 15:17:14 runner.py | SUCCESS | A run the test in debug mode without generating HTML report!
+ 2022-06-15 15:17:26 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-15 15:17:34 case.py | INFO | 👀 assertIn url: http://www.itest.info/.
+ 2022-06-15 15:19:29 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-15 15:19:37 case.py | INFO | 👀 assertIn url: http://www.itest.info/.
+ 2022-06-15 15:22:19 webdriver.py | INFO | 📖 https://sit.rpasys.com/login
+ 2022-06-15 15:22:34 case.py | WARNING | ❌ assertIn fail: itest.info.
+ 2022-06-15 15:23:01 webdriver.py | INFO | 📖 https://sit.rpasys.com/login
+ 2022-06-15 15:23:15 case.py | WARNING | ❌ assertIn fail: url.
+ 2022-06-15 15:24:07 webdriver.py | INFO | 📖 https://sit.rpasys.com/login
+ 2022-06-15 15:24:11 case.py | INFO | 👀 assertText: 登录.
+ 2022-06-15 15:26:24 webdriver.py | INFO | 📖 https://sit.rpasys.com/login
+ 2022-06-15 15:26:28 case.py | INFO | 👀 assertText: 登录.

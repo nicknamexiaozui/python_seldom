@@ -1,0 +1,179 @@
+ 2022-06-14 15:58:01 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:58:01 request.py | INFO | [method]: DELETE      [url]: http://httpbin.org/delete 
+
+ 2022-06-14 15:58:01 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:58:01 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:58:01 request.py | DEBUG | [type]: json      [time]: 0.461933 
+
+ 2022-06-14 15:58:01 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '0', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83f88-6065b08b60ee94454dd17101'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/delete'} 
+
+ 2022-06-14 15:58:01 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:58:01 request.py | INFO | [method]: GET      [url]: http://httpbin.org/get 
+
+ 2022-06-14 15:58:01 request.py | DEBUG | [params]:
+ {'key1': 'value1', 'key2': 'value2'} 
+
+ 2022-06-14 15:58:01 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:58:01 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:58:01 request.py | DEBUG | [type]: json      [time]: 0.226618 
+
+ 2022-06-14 15:58:01 request.py | DEBUG | [response]:
+ {'args': {'key1': 'value1', 'key2': 'value2'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83f88-3a089eab2cfeff1976b3e6d9'}, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/get?key1=value1&key2=value2'} 
+
+ 2022-06-14 15:58:01 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:58:01 request.py | INFO | [method]: POST      [url]: http://httpbin.org/post 
+
+ 2022-06-14 15:58:01 request.py | DEBUG | [data]:
+ {'key': 'value'} 
+
+ 2022-06-14 15:58:02 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:58:02 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:58:02 request.py | DEBUG | [type]: json      [time]: 0.226003 
+
+ 2022-06-14 15:58:02 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {'key': 'value'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '9', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83f88-52112a50454921d46bc6e794'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/post'} 
+
+ 2022-06-14 15:58:02 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:58:02 request.py | INFO | [method]: PUT      [url]: http://httpbin.org/put 
+
+ 2022-06-14 15:58:02 request.py | DEBUG | [data]:
+ {'key': 'value'} 
+
+ 2022-06-14 15:58:02 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:58:02 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:58:02 request.py | DEBUG | [type]: json      [time]: 0.552446 
+
+ 2022-06-14 15:58:02 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {'key': 'value'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '9', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83f88-0a166ba361ddc58d7a92cb60'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/put'} 
+
+ 2022-06-14 15:58:02 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 15:59:15 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:59:15 request.py | INFO | [method]: DELETE      [url]: http://httpbin.org/delete 
+
+ 2022-06-14 15:59:15 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:59:15 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:59:15 request.py | DEBUG | [type]: json      [time]: 0.473048 
+
+ 2022-06-14 15:59:15 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '0', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83fd2-5f317a4a5fc24b421c5076df'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/delete'} 
+
+ 2022-06-14 15:59:15 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:59:15 request.py | INFO | [method]: GET      [url]: http://httpbin.org/get 
+
+ 2022-06-14 15:59:15 request.py | DEBUG | [params]:
+ {'key1': 'value1', 'key2': 'value2'} 
+
+ 2022-06-14 15:59:15 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:59:15 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:59:15 request.py | DEBUG | [type]: json      [time]: 0.230631 
+
+ 2022-06-14 15:59:15 request.py | DEBUG | [response]:
+ {'args': {'key1': 'value1', 'key2': 'value2'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83fd2-4a186b712142fb0912b63bd5'}, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/get?key1=value1&key2=value2'} 
+
+ 2022-06-14 15:59:15 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:59:15 request.py | INFO | [method]: POST      [url]: http://httpbin.org/post 
+
+ 2022-06-14 15:59:15 request.py | DEBUG | [data]:
+ {'key': 'value'} 
+
+ 2022-06-14 15:59:16 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:59:16 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:59:16 request.py | DEBUG | [type]: json      [time]: 0.228433 
+
+ 2022-06-14 15:59:16 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {'key': 'value'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '9', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83fd2-165b0c984c369e8e65d73153'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/post'} 
+
+ 2022-06-14 15:59:16 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 15:59:16 request.py | INFO | [method]: PUT      [url]: http://httpbin.org/put 
+
+ 2022-06-14 15:59:16 request.py | DEBUG | [data]:
+ {'key': 'value'} 
+
+ 2022-06-14 15:59:16 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 15:59:16 request.py | INFO | successful with status 200 
+
+ 2022-06-14 15:59:16 request.py | DEBUG | [type]: json      [time]: 0.228858 
+
+ 2022-06-14 15:59:16 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {'key': 'value'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '9', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a83fd2-134f7f9167b4c8dc00bf3053'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/put'} 
+
+ 2022-06-14 15:59:16 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:00:16 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:01:16 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:02:17 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-14 16:03:17 runner.py | SUCCESS | generated html file: file:///D:\python_seldom\mypro\reports\2022_06_14_15_59_14_result.html
+ 2022-06-14 16:03:17 runner.py | SUCCESS | generated log file: file:///D:\python_seldom\mypro\reports\seldom_log.log
+ 2022-06-14 16:14:35 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 16:14:35 request.py | INFO | [method]: DELETE      [url]: http://httpbin.org/delete 
+
+ 2022-06-14 16:14:35 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 16:14:35 request.py | INFO | successful with status 200 
+
+ 2022-06-14 16:14:35 request.py | DEBUG | [type]: json      [time]: 0.476327 
+
+ 2022-06-14 16:14:35 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '0', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a8436a-60bbf5600f88278049275d66'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/delete'} 
+
+ 2022-06-14 16:14:35 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 16:14:35 request.py | INFO | [method]: GET      [url]: http://httpbin.org/get 
+
+ 2022-06-14 16:14:35 request.py | DEBUG | [params]:
+ {'key1': 'value1', 'key2': 'value2'} 
+
+ 2022-06-14 16:14:36 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 16:14:36 request.py | INFO | successful with status 200 
+
+ 2022-06-14 16:14:36 request.py | DEBUG | [type]: json      [time]: 0.462957 
+
+ 2022-06-14 16:14:36 request.py | DEBUG | [response]:
+ {'args': {'key1': 'value1', 'key2': 'value2'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a8436a-0ba2c8fb25d92b89492883f9'}, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/get?key1=value1&key2=value2'} 
+
+ 2022-06-14 16:14:36 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 16:14:36 request.py | INFO | [method]: POST      [url]: http://httpbin.org/post 
+
+ 2022-06-14 16:14:36 request.py | DEBUG | [data]:
+ {'key': 'value'} 
+
+ 2022-06-14 16:14:36 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 16:14:36 request.py | INFO | successful with status 200 
+
+ 2022-06-14 16:14:36 request.py | DEBUG | [type]: json      [time]: 0.466087 
+
+ 2022-06-14 16:14:36 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {'key': 'value'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '9', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a8436b-504f1d316769c1c2195ab562'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/post'} 
+
+ 2022-06-14 16:14:36 request.py | INFO | -------------- Request -----------------[🚀]
+ 2022-06-14 16:14:36 request.py | INFO | [method]: PUT      [url]: http://httpbin.org/put 
+
+ 2022-06-14 16:14:36 request.py | DEBUG | [data]:
+ {'key': 'value'} 
+
+ 2022-06-14 16:14:37 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-06-14 16:14:37 request.py | INFO | successful with status 200 
+
+ 2022-06-14 16:14:37 request.py | DEBUG | [type]: json      [time]: 0.468977 
+
+ 2022-06-14 16:14:37 request.py | DEBUG | [response]:
+ {'args': {}, 'data': '', 'files': {}, 'form': {'key': 'value'}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '9', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.27.1', 'X-Amzn-Trace-Id': 'Root=1-62a8436b-62190333159ad8ee3e22d545'}, 'json': None, 'origin': '220.249.101.72', 'url': 'http://httpbin.org/put'} 
+
+ 2022-06-14 16:14:37 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:14:40 webdriver.py | INFO | ✅ Find 1 element: id=sb_form_q  -> input 'seldom'.
+ 2022-06-14 16:14:40 case.py | INFO | 👀 assertIn title: seldom - 搜索.
+ 2022-06-14 16:14:40 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:14:41 webdriver.py | INFO | ✅ Find 1 element: id=sb_form_q  -> input 'poium'.
+ 2022-06-14 16:14:42 case.py | INFO | 👀 assertIn title: poium - 搜索.
+ 2022-06-14 16:14:42 webdriver.py | INFO | 📖 https://cn.bing.com
+ 2022-06-14 16:14:43 webdriver.py | INFO | ✅ Find 1 element: id=sb_form_q  -> input 'XTestRunner'.
+ 2022-06-14 16:14:44 case.py | INFO | 👀 assertIn title: XTestRunner - 搜索.
+ 2022-06-14 16:14:44 webdriver.py | INFO | 📖 http://www.itest.info
+ 2022-06-14 16:14:51 case.py | INFO | 👀 assertIn url: http://www.itest.info/.
+ 2022-06-14 16:14:51 runner.py | SUCCESS | generated html file: file:///D:\python_seldom\mypro\reports\2022_06_14_16_14_34_result.html
+ 2022-06-14 16:14:51 runner.py | SUCCESS | generated log file: file:///D:\python_seldom\mypro\reports\seldom_log.log
